@@ -1,4 +1,4 @@
-# TYHE42 – ICT Assistant v1.0
+# TYHE42 – ICT Assistant v1.1
 
 ## Achat et activation
 
