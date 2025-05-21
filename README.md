@@ -1,9 +1,44 @@
-# Mes liens importants
+# TYHE42 – ICT Assistant v1.0
 
-- Acheter mon indicateur TradingView sur eBay :  
-  [Lien eBay]: (https://www.ebay.fr/itm/376262456622)
+## Achat et activation
 
-  ## Contact / Support
+Pour acheter l’indicateur, rendez-vous sur eBay :  
+👉 [https://www.ebay.fr/itm/376262456622](https://www.ebay.fr/itm/376262456622)
 
-Rejoins-moi sur Telegram pour toute question ou support :  
-[Telegram Group](https://web.telegram.org/k/#-2342118230)
+Après achat, merci de m’envoyer votre pseudo TradingView via la messagerie eBay afin que je puisse activer votre accès à l’indicateur privé (invite-only script). L’activation est manuelle et sera effectuée sous 24h maximum.
+
+---
+
+## Fonctionnalités principales
+
+- **FVG automatique** (Fair Value Gap)  
+- **EQH / EQL automatiques** (Equal High / Equal Low)  
+- **Killzones** : Asian, London, New York  
+- **Previous High / Low** : PDH, PDL, PMH, PML, PWH, PWL  
+- **Daily Open** (Midnight Open)  
+- Couleurs personnalisables, visuels clairs et performance optimisée
+
+---
+
+## Où trouver l’indicateur ?
+
+Dans TradingView > Indicators > Invite-only Scripts
+
+---
+
+## Support et mises à jour
+
+Pour suivre les mises à jour et poser vos questions, rejoignez notre canal Telegram :  
+👉 [https://t.me/+yX_eyzRoh6ozNTFk](https://t.me/+yX_eyzRoh6ozNTFk)
+
+Pour toute question ou problème après activation, contactez-moi par mail :  
+✉️ TYHE42ICTASSISTANT@gmail.com
+
+---
+
+## Conditions d’utilisation
+
+L’accès à cet indicateur est strictement personnel. Le partage ou la revente non autorisée entraînera un bannissement.  
+Ce produit est un outil pédagogique et technique. Il ne constitue pas un conseil financier. L’utilisateur est responsable de son usage.
+
+---
